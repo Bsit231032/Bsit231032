@@ -2,3 +2,17 @@
 <h1 align="center">Hi 👋, I'm Kavidu Himansa</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Bsit231032&label=Profile%20views&color=0e75b6&style=flat" alt="Bsit231032" /> </p>
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 🌱 I’m currently learning **laravel**
+
+- 🧑‍🎓 I’m an Undergraduate at **BCI**
+
+- 💬 Ask me about **react**
+
+- 📫 How to reach me **kawwahimansa@gmail.com**
+  
+- ⚡ Fun fact **Call me as KB**
