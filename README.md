@@ -94,14 +94,12 @@
     <img src="https://github.com/Bsit231032/gif/blob/main/MongoDB.svg" alt="mongodb" width="50" height="50"/> 
   </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Bsit231032/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="50" height="50"/> 
+    <img src="https://github.com/Bsit231032/gif/blob/main/NodeJS-Light.svg" alt="nodejs" width="50" height="50"/> 
   </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Bsit231032/gif/blob/main/React-Dark.svg" alt="react" width="50" height="50"/> 
   </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Bsit231032/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="50" height="50"/> 
-  </a> 
+ 
 </p>
 
 
