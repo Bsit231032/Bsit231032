@@ -88,22 +88,3 @@
     <img src="https://github.com/Bsit231032/gif/blob/main/React-Dark.svg?raw=true" alt="react" width="50" height="50"/> 
   </a> 
 </p>
-<div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=Hello%20World!&fontSize=70&fontColor=22d3ee&animation=fadeIn)
-
-### 🚀 IT Undergraduate | Full Stack Developer
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=FCD34D&center=true&vCenter=true&width=435&lines=Building+Cyberpunk+Web+Experiences;React+%2B+Laravel+Developer)](https://git.io/typing-svg)
-
-</div>
-
-<br />
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bsit231032&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&icon_color=fcd34d)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bsit231032&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
